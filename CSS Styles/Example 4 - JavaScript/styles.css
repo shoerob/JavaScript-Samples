@@ -1,0 +1,30 @@
+/*
+ A # symbol denotes that an element with a specific id should be styled.
+*/
+
+/* This styles the body element */
+body {
+    background-color: lightblue;
+
+    /* 
+    Try typing to discover what can be styled using intellisense in Visual Studio code, or
+    look up information on properties that can be styled.
+    */
+
+}
+
+/* This styles elements of class "sectionHeadingStyle1" */
+.sectionHeadingStyle1 {
+    color: red;
+}
+
+/* This styles elements of class "sectionHeadingStyle2" */
+.sectionHeadingStyle2 {
+    color: purple;
+}
+
+/* This styles elements of class "sectionContent" */
+.sectionContent {
+    color: green
+}
+
